@@ -10,7 +10,7 @@ export const Home = () => {
     <>
       <h2 className="listHeader">2022 REGAL 36 GRAND COUPE</h2>
       <h5 className="listPrice">$549,900</h5>
-      <p className="listLocation">Knoxvile, tenessee</p>
+      <p className="listLocationn">Knoxvile, tenessee</p>
     </>
   );
 };
